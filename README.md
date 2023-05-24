@@ -1,18 +1,19 @@
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks! I am Kevin💫 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on something cool😎...
 - 🌱 I’m currently learning somthing new...
 - 👯 I’m looking to collaborate on any project...
+- ✉️ Drop a message in my mail at **tuyizerek27@gmail.com**
 
 <h5>How to reach me🤙</h5>
 
-<a href="https://twitter.com/KevinTy__" target="blank">Twitter</a>
-<a href="https://www.linkedin.com/in/kevin-tuyizere-b58b89261/" target="blank">LinkedIn</a>
-<a href="https://www.instagram.com/ke__vyn__/" target="blank">Instagram</a>
+<a href="https://twitter.com/KevinTy__" target="blank">Twitter</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kevin-tuyizere-b58b89261/" target="blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ke__vyn__/" target="blank">Instagram</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/kevin_ty23/" target="blank">Leetcode</a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kevin-Tyy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kevin-Tyy&theme=dark)](https://git.io/streak-stats)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Tyy&show_icons=true&theme=radical" />
 
