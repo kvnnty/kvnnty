@@ -1,30 +1,32 @@
-### Hello World,I am Kevin💫 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello World, I am 𝕂𝕖𝕧𝕚𝕟 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcde&size=22&lines=Welcome+to+my+GitHub+Profile!;I+am+a+full+stack+engineer;Working+on+Mobile+and+Web+applications;Learning+something+new;I+am+a+Designer+during day;And+a+devloper+during+night" /></a>
-</p>
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcde&size=22&lines=Welcome+to+my+GitHub+Profile!;I+am+a+child+of+GOD;I+am+a+Mobile+Engineer;I+am+a+Designer+at+night" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcde&size=22&lines=Welcome+to+my+GitHub+Profile!;I+am+a+full+stack+engineer...;Working+on+Mobile+and+Web+applications;Learning+something+new!;I+am+a+Designer+during+day,...;And+a+developer+at+night!" /></a>
 </p>
 
 - 🔭 I’m currently working on something cool😎...
 - 🌱 I’m currently learning something new...
 - 👯 I’m looking to collaborate on any project...
 - ✉️ Drop a message in my mail at **tuyizerek27@gmail.com**
-<br/><br/><br/>
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px><br/><br/><br/><br/>
+<br/>
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
 <h5>How to reach me🤙</h5>
-
 <a href="https://twitter.com/KevinTy__" target="_blank">Twitter</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kevin-tuyizere-b58b89261/" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ke__vyn__/" target="_blank">Instagram</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/kevin_ty23/" target="_blank">Leetcode</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/kevinty" target="blank">Dev.to</a>
-
+<a href="https://dev.to/kevinty" target="blank">Dev.to</a><br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevin-Tyy&theme=dark)](https://git.io/streak-stats)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Tyy&show_icons=true&theme=radical" />
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+
+<div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p size=22&color=F4F71E><img align="center" src="https://profile-counter.glitch.me/{Kevin-Tyy}/count.svg" /></p> 
+<br>
+</div>
 
 <!-- <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
