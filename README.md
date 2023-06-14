@@ -1,4 +1,4 @@
-### Hello World, I am 𝕂𝕖𝕧𝕚𝕟 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello World, I'm 𝕂𝕖𝕧𝕚𝕟 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcde&size=22&lines=Welcome+to+my+GitHub+Profile!;I+am+a+full+stack+engineer...;Working+on+Mobile+and+Web+applications;Learning+something+new!;I+am+a+Designer+during+day,...;And+a+developer+at+night!" /></a>
 </p>
