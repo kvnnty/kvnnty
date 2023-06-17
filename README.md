@@ -23,7 +23,7 @@
 
 
 <div>
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visit Count</b></p>  
 <p size=22&color=F4F71E><img align="center" src="https://profile-counter.glitch.me/{Kevin-Tyy}/count.svg" /></p> 
 <br>
 </div>
