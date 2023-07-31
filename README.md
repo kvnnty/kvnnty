@@ -6,7 +6,7 @@
 
 Reach my mail at **tuyizerek27@gmail.com** 
 
- ## :man_technologist: Reach me through:
+ ## :man_technologist: Lets connect 😎😎:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tkevin/)](https://www.linkedin.com/in/tkevin/)
 [![Github](https://img.shields.io/badge/-github-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/Kevin-Tyy)](https://github.com/Kevin-Tyy)
