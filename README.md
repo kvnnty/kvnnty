@@ -20,7 +20,7 @@ Reach my mail at **tuyizerek27@gmail.com**
 [![Facebook](https://img.shields.io/badge/Threads-gray?style=flat-square&logo=threads&logoColor=white&link=https://www.threads.net/@_k.e.v.i.n_t_)](https://www.threads.net/@_k.e.v.i.n_t_)
 
 ### :hammer_and_wrench: Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Tyy&layout=compact&theme=radical)](https://github.com/Kevin-Tyy)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Tyy&layout=compact&theme=radical)](https://github.com/Kevin-Tyy) -->
 
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
@@ -45,19 +45,20 @@ Reach my mail at **tuyizerek27@gmail.com**
 </div>
 
 <hr/>
+-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=LucasCamposGit&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=LucasCamposGit&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Kevin-Tyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Kevin-Tyy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucasCamposGit&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Kevin-Tyy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<!--
 <br/><br/>
 <hr/>
-
+<!--
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
