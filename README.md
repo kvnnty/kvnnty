@@ -10,16 +10,12 @@ Reach my mail at **tuyizerek27@gmail.com**
 <h3>:man_technologist: Lets connect:</h3>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tkevin/)](https://www.linkedin.com/in/tkevin/)
-[![Github](https://img.shields.io/badge/-github-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/Kevin-Tyy)](https://github.com/Kevin-Tyy)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-red?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/kevin_ty23/)]([https://twitter.com/KevinTy__)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/KevinTy__)](https://twitter.com/KevinTy__)
-[![Instagram](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_k.e.v.i.n_t_/)](https://www.instagram.com/_k.e.v.i.n_t_/)
-[![Dev.To](https://img.shields.io/badge/-dev.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/kevinty)](https://dev.to/kevinty)
-[![Github](https://img.shields.io/badge/-whatsapp-green?style=flat-square&logo=WHATSAPP&logoColor=white&link=https://github.com/Kevin-Tyy/)](https://github.com/Kevin-Tyy)
-[![Gmail](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=gmail&logoColor=white&link=tuyizerek27@gmail.com)](https://github.com/Kevin-Tyy)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com)](https://facebook.com)
-[![Facebook](https://img.shields.io/badge/Threads-gray?style=flat-square&logo=threads&logoColor=white&link=https://www.threads.net/@_k.e.v.i.n_t_)](https://www.threads.net/@_k.e.v.i.n_t_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=whitenk=https://www.linkedin.com/in/tkevin/)](https://www.linkedin.com/in/tkevin/)
+[![Github](https://img.shields.io/badge/-github-gray?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Kevin-Tyy)](https://github.com/Kevin-Tyy)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/KevinTy__)](https://twitter.com/KevinTy__)
+[![Instagram](https://img.shields.io/badge/-instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_k.e.v.i.n_t_/)](https://www.instagram.com/_k.e.v.i.n_t_/)
+[![Dev.To](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/kevinty)](https://dev.to/kevinty)
+[![Facebook](https://img.shields.io/badge/Threads-gray?style=for-the-badge&logo=threads&logoColor=white&link=https://www.threads.net/@_k.e.v.i.n_t_)](https://www.threads.net/@_k.e.v.i.n_t_)
 
 
 <br/>
