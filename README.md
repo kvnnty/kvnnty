@@ -8,9 +8,8 @@ Reach my mail at **kevin@webbuddy.agency**
 - [Email](mailto:kevin@webbuddy.agency)
 
 
-<br/>
-<h3>⚡ Stats ⚡</h3>
-<br>
+## Stats
+
 <div>
   <img width=390 src="https://streak-stats.demolab.com/?user=Kevin-Tyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Kevin-Tyy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -19,7 +18,7 @@ Reach my mail at **kevin@webbuddy.agency**
 </div>
 
 
-<h3>:hammer_and_wrench: Languages I speak:</h3> 
+## Languages I speak:
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,java,spring,next,svelte,nest" width="500px"/><br>
