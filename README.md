@@ -1,7 +1,3 @@
-
-# Hello World, I'm 𝕂𝕖𝕧𝕚𝕟 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-Reach my mail at **kevin@webbuddy.agency** 
 ## Connect with me
 - [Website](https://github.com)
 - [Linkedin](https://linkedin.com/in/tkevin)
